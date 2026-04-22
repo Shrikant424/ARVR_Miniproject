@@ -1,0 +1,5 @@
+C:/Users/shrik/OneDrive/Desktop/ARVR_Miniproject/.utmp/RelWithDebInfo/5n6p5m69/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/shrik/OneDrive/Desktop/ARVR_Miniproject/.utmp/RelWithDebInfo/5n6p5m69/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/shrik/OneDrive/Desktop/ARVR_Miniproject/.utmp/RelWithDebInfo/5n6p5m69/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/shrik/OneDrive/Desktop/ARVR_Miniproject/.utmp/RelWithDebInfo/5n6p5m69/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/shrik/OneDrive/Desktop/ARVR_Miniproject/.utmp/RelWithDebInfo/5n6p5m69/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

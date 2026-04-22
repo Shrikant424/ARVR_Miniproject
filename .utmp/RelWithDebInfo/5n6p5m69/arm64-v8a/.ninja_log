@@ -1,0 +1,19 @@
+# ninja log v5
+20145	26777	7967575417441052	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1f282de91a752a93
+2	23092	7967575229014438	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e65d2f9a466e3459
+3288	23319	7967575253411029	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	24ccc4889fc2f89a
+17527	23330	7967575379080252	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ffe8dc2f40f237c2
+6711	23321	7967575269273231	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	2abf2b6af3f398a4
+9613	23323	7967575292323112	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2617e5129501f549
+12532	23326	7967575321596813	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	447708ebd359a1d6
+14903	23328	7967575362870398	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	1356efa726c9b51a
+26778	28338	7967575433073104	C:/Users/shrik/OneDrive/Desktop/ARVR_Miniproject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5n6p5m69/obj/arm64-v8a/libgame.so	42bff0c5a85ff10f
+247	13491	7975208669958733	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	447708ebd359a1d6
+401	13505	7975208670011508	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2617e5129501f549
+153	13557	7975208670605380	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e65d2f9a466e3459
+467	13700	7975208671994415	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ffe8dc2f40f237c2
+309	13817	7975208673536792	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	2abf2b6af3f398a4
+509	14342	7975208678726456	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1f282de91a752a93
+354	14997	7975208685356408	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	1356efa726c9b51a
+202	15549	7975208690688080	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	24ccc4889fc2f89a
+15551	16702	7975208702165653	C:/Users/shrik/OneDrive/Desktop/ARVR_Miniproject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5n6p5m69/obj/arm64-v8a/libgame.so	42bff0c5a85ff10f

@@ -1,0 +1,177 @@
+{
+    "m_SelectedDeviceId": "R9ZX6009F1Y",
+    "m_SelectedProcess": {
+        "deviceId": "R9ZX6009F1Y",
+        "name": "com.skak.miniproject",
+        "processId": 19222,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "RZCWA04RSHA",
+            "name": "com.sec.android.app.launcher",
+            "processId": 2414,
+            "exited": false
+        },
+        {
+            "deviceId": "RZCWA04RSHA",
+            "name": "com.skak.miniproject",
+            "processId": 15569,
+            "exited": true
+        },
+        {
+            "deviceId": "RZCWA04RSHA",
+            "name": "com.skak.miniproject",
+            "processId": 26409,
+            "exited": true
+        },
+        {
+            "deviceId": "RZCWA04RSHA",
+            "name": "com.skak.miniproject",
+            "processId": 6973,
+            "exited": true
+        },
+        {
+            "deviceId": "RZCWA04RSHA",
+            "name": "com.google.android.permissioncontroller",
+            "processId": 10589,
+            "exited": true
+        },
+        {
+            "deviceId": "RZCWA04RSHA",
+            "name": "com.skak.miniproject",
+            "processId": 19195,
+            "exited": false
+        },
+        {
+            "deviceId": "R9ZX6009F1Y",
+            "name": "com.skak.miniproject",
+            "processId": 12342,
+            "exited": true
+        },
+        {
+            "deviceId": "R9ZX6009F1Y",
+            "name": "com.google.android.packageinstaller",
+            "processId": 9889,
+            "exited": true
+        },
+        {
+            "deviceId": "R9ZX6009F1Y",
+            "name": "com.skak.miniproject",
+            "processId": 14013,
+            "exited": true
+        },
+        {
+            "deviceId": "R9ZX6009F1Y",
+            "name": "com.google.android.permissioncontroller",
+            "processId": 7361,
+            "exited": false
+        },
+        {
+            "deviceId": "R9ZX6009F1Y",
+            "name": "com.skak.miniproject",
+            "processId": 16514,
+            "exited": true
+        },
+        {
+            "deviceId": "R9ZX6009F1Y",
+            "name": "com.skak.miniproject",
+            "processId": 19222,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "AutoCapture": true
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_ScreenCaptureSettings": {
+        "Mode": 0,
+        "m_LastSaveLocation": [
+            "C:\\Users\\shrik\\OneDrive\\Desktop\\ARVR_Miniproject",
+            "C:\\Users\\shrik\\OneDrive\\Desktop\\ARVR_Miniproject"
+        ]
+    },
+    "m_QueryLayoutSettings": {
+        "LastLayoutSaveLocation": "",
+        "LastScreenshotSaveLocation": ""
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 0
+}
